@@ -30,8 +30,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### GitHub Stats:
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedsiddiqui7&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsiddiqui7&layout=compact)
