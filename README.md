@@ -9,7 +9,7 @@
 - 🧩 My final year project — **PII Detection & Redaction in Digitized Documents** (OCR + NLP) — is what pulled me into this space in the first place
 - 🌱 Exploring the fundamentals, one project at a time
 - 👯 Looking to collaborate on **AI and security-focused projects**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/muhammad-ahmed-siddiqui-53814224b)
+- 📫 Reach me: - ahmed.siddiqui.016@gmail.com
 
 ### Connect with me:
 
