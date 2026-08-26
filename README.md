@@ -1,13 +1,13 @@
-# Hi 👋, I'm Ahmed Siddiqui
+# Hi 👋, I'm Muhammad Ahmed Siddiqui
 
 ### Software Engineer | AI & Cybersecurity Enthusiast
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ahmedsiddiqui7&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on **backend systems** at Next Generation Innovations (Node.js, NestJS, TypeScript)
+- 🔭 I work at **Next Generation Innovations** as a Full-Stack Developer, building products that help startups grow
 - 💡 Genuinely fascinated by **AI and Cybersecurity** — still early in the journey, but it's the direction I want to keep growing in
 - 🧩 My final year project — **PII Detection & Redaction in Digitized Documents** (OCR + NLP) — is what pulled me into this space in the first place
-- 🌱 Learning the fundamentals, one project at a time
+- 🌱 Exploring the fundamentals, one project at a time
 - 👯 Looking to collaborate on **AI and security-focused projects**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/muhammad-ahmed-siddiqui-53814224b)
 
